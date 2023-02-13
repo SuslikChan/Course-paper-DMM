@@ -1,0 +1,3 @@
+"flange_thread_dim_reducer" = 4  'Диаметр резьбы на фланце
+"flange_thread_depth_reducer" = 7  'Диаметр резьбы на фланце
+"flange_collar_dim_reducer" = 26  'Диаметр бурта на фланце (Посадка h7)
